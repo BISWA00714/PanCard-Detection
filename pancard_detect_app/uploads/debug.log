@@ -1,0 +1,53 @@
+2026-04-23 13:06:34,654 [INFO] Starting app via python app.py
+2026-04-23 13:08:24,156 [INFO] Starting app via python app.py
+2026-04-23 13:16:36,481 [INFO] debug_detect: file=Biswa_PAN_CARD.jpg detections=0 top_conf=0.0
+2026-04-23 13:16:36,481 [INFO] debug_detect: file=Biswa_PAN_CARD.jpg detections=0 top_conf=0.0
+2026-04-23 14:10:41,339 [INFO] debug_detect: file=Biswa_PAN_CARD.jpg detections=0 top_conf=0.0
+2026-04-23 14:10:41,339 [INFO] debug_detect: file=Biswa_PAN_CARD.jpg detections=0 top_conf=0.0
+2026-04-26 13:36:44,493 [INFO] Starting app via python app.py
+2026-04-26 13:45:31,290 [INFO] Starting app via python app.py
+2026-04-26 13:46:09,818 [INFO] Starting app via python app.py
+2026-04-26 13:48:49,754 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 13:48:49,754 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 13:49:14,360 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 13:49:14,360 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 14:03:08,175 [INFO] Starting app via python app.py
+2026-04-26 14:04:26,323 [INFO] Starting app via python app.py
+2026-04-26 14:04:42,455 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 14:04:42,455 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 14:05:00,808 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 14:05:00,808 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:02,889 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:02,889 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:15,071 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:15,071 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:26,407 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:26,407 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:40,569 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:37:40,569 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:47:43,502 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:47:43,502 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:47:57,370 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:47:57,370 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:48:11,203 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:48:11,203 [WARNING] easyocr not installed — skipping PAN text verification
+2026-04-26 15:56:41,579 [INFO] Starting app via python app.py
+2026-04-26 15:57:46,440 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-04-26 15:57:46,440 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-04-26 15:57:46,947 [INFO] Rejected non-PAN detection: conf=0.345, reason=wrong aspect ratio 2.33 (expected 1.586±30%)
+2026-04-26 15:57:46,947 [INFO] Rejected non-PAN detection: conf=0.345, reason=wrong aspect ratio 2.33 (expected 1.586±30%)
+2026-04-26 16:02:46,308 [INFO] Starting app via python app.py
+2026-04-26 16:03:03,888 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-04-26 16:03:03,888 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-04-26 16:03:19,229 [INFO] Rejected non-PAN detection: conf=0.345, reason=wrong aspect ratio 2.33 (expected 1.586±30%)
+2026-04-26 16:03:19,229 [INFO] Rejected non-PAN detection: conf=0.345, reason=wrong aspect ratio 2.33 (expected 1.586±30%)
+2026-05-03 00:31:05,248 [INFO] Starting app via python app.py
+2026-05-03 00:33:01,281 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-05-03 00:33:01,281 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-05-03 00:33:33,575 [INFO] Rejected non-PAN detection: conf=0.345, reason=wrong aspect ratio 2.33 (expected 1.586±30%)
+2026-05-03 00:33:33,575 [INFO] Rejected non-PAN detection: conf=0.345, reason=wrong aspect ratio 2.33 (expected 1.586±30%)
+2026-05-03 00:51:22,033 [INFO] Starting app via python app.py
+2026-05-03 01:05:19,180 [INFO] Starting app via python app.py
+2026-05-03 01:25:12,494 [INFO] Starting app via python app.py
+2026-05-03 02:00:16,462 [INFO] Accepted PAN detection: conf=0.317, passed (ratio=1.549, edges=0.0502)
+2026-05-03 02:01:25,171 [INFO] Starting app via python app.py
