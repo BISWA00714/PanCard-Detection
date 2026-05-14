@@ -18,7 +18,7 @@ Built with **YOLOv8m** and trained on a custom labeled dataset, the model is rob
 ## 🚀 Quick Start
 ```bash
 pip install -r requirements.txt
-python detect.py --image your_photo.jpg
+python app.py --image your_photo.jpg
 ```
 
 ## 📁 Dataset Structure
